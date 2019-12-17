@@ -1,0 +1,10 @@
+Aaaaaaaaa1|F|Bbbbbbbbbb|1234 Main St||Dallas|TX|75001-|M|1112223333|abc@utdallas.edu|Yes|Sunday, September 22, 2019|9/28/2019 11:25:43 PM|9/28/2019 11:27:02 PM|0
+Aaaaaaaaa2|F|Bbbbbbbbbb|1234 Main St.||Dallas|Tx|75001-|F|1112223333|abc@urdallas.edu|Yes|Sunday, September 22, 2019|9/28/2019 11:27:23 PM|9/28/2019 11:28:07 PM|0
+Aaaaaaaaaa3|F|Bbbbbbbbbb|1234 Main St||Dallas|TX|75001-|M|1112223333|abc@utdallas.edu|Yes|Sunday, September 22, 2019|9/28/2019 11:28:11 PM|9/28/2019 11:28:55 PM|0
+Aaaaaaaaaa4|F|Bbbbbbbbbb|1234 Main St||Dallas|TX|75001-|M|1112223333|abc@utdallas.edu|Yes|Sunday, September 22, 2019|9/28/2019 11:29:02 PM|9/28/2019 11:29:39 PM|2
+Aaaaaaaaaa5|F|Bbbbbbbbbb|1234Main st||Dallas|TX|75001-|M|1112223333|abc@utdallas.edu|Yes|Sunday, September 22, 2019|9/28/2019 11:29:45 PM|9/28/2019 11:30:20 PM|0
+Aaaaaaaaa6|F|Bbbbbbbbbb|1234 Main St||Dallas|TX|75001-|M|1112223333|abc@utdallas.edu|Yes|Sunday, September 22, 2019|9/28/2019 11:30:30 PM|9/28/2019 11:30:58 PM|2
+Aaaaaaaaaa7|F|Bbbbbbbbbb|1234 Main St||Dallas|TX|75001-|M|1112223333|abc@utdallas.edu|Yes|Sunday, September 22, 2019|9/28/2019 11:30:43 PM|9/28/2019 11:31:42 PM|6
+Aaaaaaaaaa8|F|Bbbbbbbbbb|1234 Main St||Dallas|TX|75001-|F|1112223333|abc@utdallas.edu|Yes|Sunday, September 22, 2019|9/28/2019 11:31:53 PM|9/28/2019 11:32:24 PM|1
+Aaaaaaaaaa9|F|Bbbbbbbbbb|1234 Main St||Dallas|TX|75001-|M|1112223333|abc@utdallas.edu|Yes|Sunday, September 22, 2019|9/28/2019 11:32:33 PM|9/28/2019 11:33:06 PM|0
+Aaaaaaaaaa10|F|Bbbbbbbbbb|1234 Main St||Dallas|TX|75001-|M|1112223333|abc@utdallas.edu|Yes|Sunday, September 22, 2019|9/28/2019 11:33:09 PM|9/28/2019 11:33:47 PM|1
